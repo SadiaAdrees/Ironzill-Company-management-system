@@ -1,0 +1,10 @@
+ 1 Bar 300 10
+ 2 BBar 130 5
+ 3 TRN 140 3
+ 4 Garder 200 2
+ 5 Angle 200 2
+ 6 Channel 160 2
+ 7 Sheet 200 3
+ 8 box 200 2
+ 9 Ring 200 3
+ 10 Circle 300 2
